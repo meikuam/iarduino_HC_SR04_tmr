@@ -1,5 +1,5 @@
 //	Библиотека для работы с ультразвуковым датчиком расстояния HC-SR04: http://iarduino.ru/shop/Sensory-Datchiki/ultrazvukovogo-datchika-hc-sr04-rasstoyaniya-dvizheniya.html
-//  Версия: 1.0.1
+//  Версия: 1.0.2
 //  Последнюю версию библиотеки Вы можете скачать по ссылке: https://iarduino.ru/file/548.html
 //  Подробное описание функции бибилиотеки доступно по ссылке: http://wiki.iarduino.ru/page/ultrazvukovoy-datchik-izmereniya-rasstoyaniya-hc-sr04/
 //  Библиотека является собственностью интернет магазина iarduino.ru и может свободно использоваться и распространяться!
